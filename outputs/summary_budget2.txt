@@ -1,6 +1,0 @@
-=== Summary Table (Budget = 2) ===
-Method         Accuracy    Avg_AoI   Avg_Cost
-random           0.9333     2.1833     2.0000
-aoi              0.9833     2.0000     2.0000
-semantic         1.0000     2.3000     2.0000
-joint            1.0000     1.7167     2.0000
